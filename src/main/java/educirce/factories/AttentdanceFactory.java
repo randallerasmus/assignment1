@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**                             
  *
- * @author RASCAL
+ * @author Randall Erasmus
  */
 public class AttentdanceFactory {
    
